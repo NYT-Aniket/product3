@@ -11,6 +11,7 @@
   "dependencies": {
     "@react-three/drei": "^9.100.0",
     "@react-three/fiber": "^8.16.0",
+    "lamina": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.170.0"
